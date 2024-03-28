@@ -10,4 +10,4 @@
 
 **Captura de tela:** 
 
-![Captura de Tela (1)](https://github.com/Nathansilva20/APPContador/assets/114961313/75b9a7e0-a045-420a-8968-ede803ddd6f3)
+![Captura de tela 2024-03-28 000204](https://github.com/Nathansilva20/APP_Contador/assets/114961313/f7e69ff9-ae45-4d28-b355-b2fa03159da6)
